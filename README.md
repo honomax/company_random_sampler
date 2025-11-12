@@ -17,21 +17,7 @@ company_random_sampler/
 ```
 
 ## 使用環境
-
 本プロジェクトは **Google Colab** 上での実行を想定しています。
-
-Colab では以下の主要ライブラリがあらかじめ利用可能です：
-- Python 3.10
-- Jupyter Notebook（Colab環境）
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
-追加で必要なライブラリがある場合は、Notebook の冒頭で次のようにインストールしてください：
-```python
-!pip install ライブラリ名
-```
 
 ## データについて
 企業データについてはEDINETコードリストからダウンロードできます。(2025/11/11時点)
